@@ -19,5 +19,5 @@ Tutti i pacchetti ZIP sono disponibili sul mio sito. Per garantire la velocità 
 
 **👉 [VAI AL SITO PER SCARICARE LE RISORSE]** *(https://ebook.netsons.org/)*
 📄 Note Legali e Copyright
-© 2026 [Tuo Nome o Nome del Sito] - Tutti i diritti riservati. > Il materiale contenuto in questo repository (file ZIP, guide EPUB e immagini) è destinato esclusivamente all'uso personale. È severamente vietata la riproduzione, la modifica, la vendita o la redistribuzione dei contenuti senza autorizzazione scritta dell'autore.
+© 2026 [https://ebook.netsons.org/)] - Tutti i diritti riservati. > Il materiale contenuto in questo repository (file ZIP, guide EPUB e immagini) è destinato esclusivamente all'uso personale. È severamente vietata la riproduzione, la modifica, la vendita o la redistribuzione dei contenuti senza autorizzazione scritta dell'autore.
 ---
