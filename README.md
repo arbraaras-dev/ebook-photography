@@ -18,6 +18,7 @@ Benvenuto nel repository! Ho raccolto appunti, guide ed esercizi pratici per aiu
 Tutti i pacchetti ZIP sono disponibili sul mio sito. Per garantire la velocità di download per tutti, i download sono gestiti con dei limiti di tempo (max 2 ogni 10 minuti).
 
 **👉 [VAI AL SITO PER SCARICARE LE RISORSE]** *(https://ebook.netsons.org/)*
+
+---
 📄 Note Legali e Copyright
 © 2026 [https://ebook.netsons.org/)] - Tutti i diritti riservati. > Il materiale contenuto in questo repository (file ZIP, guide EPUB e immagini) è destinato esclusivamente all'uso personale. È severamente vietata la riproduzione, la modifica, la vendita o la redistribuzione dei contenuti senza autorizzazione scritta dell'autore.
----
